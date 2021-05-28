@@ -48,7 +48,7 @@ html {
 
 body {
   user-select: none;
-  min-height: 120vh;
+  min-height: 100vh;
   background: #7c7c7c;
   display: flex;
   justify-content: center;
@@ -59,7 +59,7 @@ body {
 body::after {
   content: "";
   width: 100vw;
-  height: 120vh;
+  height: 100vh;
   position: absolute;
   left: 0;
   top: 0;
